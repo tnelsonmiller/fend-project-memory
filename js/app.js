@@ -81,6 +81,7 @@ function resetGame()  {
   resetMoves();
   resetStars();
   shuffleDeck();
+  resetCards();
   console.log('game is reset');
 }
 
